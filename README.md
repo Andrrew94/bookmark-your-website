@@ -5,4 +5,4 @@ Technologies used are : Javascript, Bootstrap, HTML.
 
 There is a preview of the website down below.
 
-![Bookmark](https://octodex.github.com/images/yaktocat.png)
+![Bookmark](https://github.com/Andrrew94/bookmark-your-website/blob/master/preview/preview1.JPG)
